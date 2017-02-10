@@ -11,7 +11,7 @@ public class Love extends JFrame implements ActionListener {
 	JButton b1, b2, b3;
 	JTextField jtf;
 
-	Love() {
+	Love() {    
 		setLayout(null);
 
 		jl1 = new JLabel("Welcome to My World..!");
@@ -67,6 +67,7 @@ public class Love extends JFrame implements ActionListener {
 
 	public static void main(String args[]) {
 		new Love();
+		System.out.println("Test Git..!");
 	}
 
 	public void actionPerformed(ActionEvent ae) {
