@@ -19,7 +19,7 @@ public class Love extends JFrame implements ActionListener {
 
 		jl3 = new JLabel("Developed @Sai");
 		jl4 = new JLabel("version 1.0");
-		jl5 = new JLabel("Copyright © Dreamers Softech");
+		jl5 = new JLabel("Copyright © Dreamer's Softech");
 
 		b1 = new JButton("Accept");
 		b2 = new JButton("Reject");
