@@ -10,7 +10,7 @@ public class Love extends JFrame implements ActionListener {
 	JLabel jl1, jl2, jl3, jl4, jl5;
 	JButton b1, b2, b3;
 	JTextField jtf;
-
+	// I'm a new code!!!
 	Love() {    
 		setLayout(null);
 
